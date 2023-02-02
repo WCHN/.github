@@ -1,4 +1,4 @@
-# :wave: Welcome to the Wellcome Centre for Human Neuroimaging :wave:
+# :wave: Welcome to the Wellcome Centre for Human Neuroimaging
 
 We investigate how the human brain generates behaviour, thoughts and feelings and how to use this knowledge to help patients with neurological and psychiatric disorders.
 

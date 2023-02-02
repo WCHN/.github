@@ -1,6 +1,8 @@
-:wave: Wellcome Centre for Human Neuroimaging :wave:
+:wave: Welcome to the Wellcome Centre for Human Neuroimaging :wave:
 
+We investigate how the human brain generates behaviour, thoughts and feelings and how to use this knowledge to help patients with neurological and psychiatric disorders.
 
+The [Wellcome Centre for Human Neuroimaging](https://www.fil.ion.ucl.ac.uk/) includes all the staff at the Functional Imaging Laboratory (FIL) and the [Max Planck UCL Centre for Computational Psychiatry and Ageing Research (MPC)](https://www.mps-ucl-centre.mpg.de/). Together, these form the UCL Department of Imaging Neuroscience. 
 
 <table>
   <tbody>
